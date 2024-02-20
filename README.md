@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img  width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130" />
 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertalef&show_icons=true&theme=transparent&title_color=d45c3e&text_color=AEA79F&icon_color=B36446&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=albertalef&show_icons=true&theme=transparent&title_color=d45c3e&text_color=AEA79F&icon_color=B36446&hide_border=true&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertalef&langs_count=4&theme=transparent&layout=compact&title_color=d45c3e&text_color=CCC3BA&icon_color=B36446&hide_border=true"/>
 </div>
 
